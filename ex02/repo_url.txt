@@ -1,1 +1,1 @@
-git@github.com:ayhambdair/discovery-web-piscine-ex02.git
+https://github.com/ayhambdair/discovery-web-piscine-ex02
