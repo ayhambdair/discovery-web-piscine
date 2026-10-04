@@ -1,0 +1,66 @@
+commit 6caa38e18e445e7bdbeebdf9f1f1010fa2c6d3d7
+Merge: 4788768 accc1c7
+Author: Ayham Bdair <ayhambdair63@gmail.com>
+Date:   Sun Oct 4 11:53:13 2026 +0300
+
+    Merge branch 'main' of github.com:ayhambdair/discovery-web-piscine
+
+commit 47887684151d3715dd897b69f3eb663d11a557f4
+Author: Ayham Bdair <ayhambdair63@gmail.com>
+Date:   Sun Oct 4 11:46:13 2026 +0300
+
+    Add hello.txt
+
+commit accc1c7a28a457a497820d4ba587ecee8ac821d6
+Author: ayhambdair <ayhambdair63@gmail.com>
+Date:   Thu Oct 1 13:53:18 2026 +0300
+
+    Update ex03 README and Git workflow
+
+commit e691da3ff2f1b90cdd267ae474d99695e78a7dd6
+Author: ayhambdair <ayhambdair63@gmail.com>
+Date:   Thu Oct 1 13:37:19 2026 +0300
+
+    remove hello.txt
+
+commit 8bc749422a63dccb2f8a1d0253725f1921fd612a
+Author: ayhambdair <ayhambdair63@gmail.com>
+Date:   Thu Oct 1 12:16:50 2026 +0300
+
+    Fix ex01 file extensions
+
+commit 8c91cb965ab9eacb5881f996f196422d2d7bab6c
+Author: ayhambdair <ayhambdair63@gmail.com>
+Date:   Thu Oct 1 10:45:07 2026 +0300
+
+    Fix ex00 tree structure
+
+commit 6fae3b4a645d67d833e3a4e9a76792904b29e05e
+Author: ayhambdair <ayhambdair63@gmail.com>
+Date:   Wed Sep 30 22:28:16 2026 +0300
+
+    Add SSH public key bonus
+
+commit f073500c0968e59fcbb75b223c0b9a44b6c8d427
+Author: ayhambdair <ayhambdair63@gmail.com>
+Date:   Wed Sep 30 22:13:28 2026 +0300
+
+    Complete ex03
+
+commit e6a584826cfc4612220b5e835ce42b07cdd9e107
+Author: ayhambdair <ayhambdair63@gmail.com>
+Date:   Wed Sep 30 15:58:14 2026 +0300
+
+    Organize exercises into folders
+
+commit 7ce1f235378f8fb80c38cbb09c00a3db8e6daaad
+Author: ayhambdair <ayhambdair63@gmail.com>
+Date:   Wed Sep 30 15:32:03 2026 +0300
+
+    Add repository URL and git log
+
+commit 065a3858f27d84e382d109a46676982e3781801b
+Author: ayhambdair <ayhambdair63@gmail.com>
+Date:   Wed Sep 30 15:16:47 2026 +0300
+
+    add hello.txt
