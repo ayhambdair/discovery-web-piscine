@@ -1,32 +1,40 @@
-archives:
+.:
 total 0
-drwxr-xr-x 2 abdair _amman  6 Sep 30 13:18 .
-drwxr-xr-x 9 abdair _amman 99 Sep 30 15:51 ..
+drwxr-xr-x  5 abdair _amman  51 Oct  4 14:30 .
+drwxr-xr-x 11 abdair _amman 128 Oct  4 14:30 ..
+drwxr-xr-x  2 abdair _amman   6 Oct  4 14:30 archives
+drwxr-xr-x  3 abdair _amman  17 Oct  4 14:30 projects
+drwxr-xr-x  2 abdair _amman   6 Oct  4 14:30 tools
 
-projects:
+./archives:
 total 0
-drwxr-xr-x 3 abdair _amman 17 Oct  1 10:34 .
-drwxr-xr-x 9 abdair _amman 99 Sep 30 15:51 ..
-drwxr-xr-x 4 abdair _amman 37 Sep 30 13:22 web
+drwxr-xr-x 2 abdair _amman  6 Oct  4 14:30 .
+drwxr-xr-x 5 abdair _amman 51 Oct  4 14:30 ..
 
-projects/web:
+./projects:
 total 0
-drwxr-xr-x 4 abdair _amman 37 Sep 30 13:22 .
-drwxr-xr-x 3 abdair _amman 17 Oct  1 10:34 ..
-drwxr-xr-x 2 abdair _amman  6 Sep 30 13:22 backend
-drwxr-xr-x 2 abdair _amman  6 Sep 30 13:22 frontend
+drwxr-xr-x 3 abdair _amman 17 Oct  4 14:30 .
+drwxr-xr-x 5 abdair _amman 51 Oct  4 14:30 ..
+drwxr-xr-x 4 abdair _amman 37 Oct  4 14:30 web
 
-projects/web/backend:
+./projects/web:
 total 0
-drwxr-xr-x 2 abdair _amman  6 Sep 30 13:22 .
-drwxr-xr-x 4 abdair _amman 37 Sep 30 13:22 ..
+drwxr-xr-x 4 abdair _amman 37 Oct  4 14:30 .
+drwxr-xr-x 3 abdair _amman 17 Oct  4 14:30 ..
+drwxr-xr-x 2 abdair _amman  6 Oct  4 14:30 backend
+drwxr-xr-x 2 abdair _amman  6 Oct  4 14:30 frontend
 
-projects/web/frontend:
+./projects/web/backend:
 total 0
-drwxr-xr-x 2 abdair _amman  6 Sep 30 13:22 .
-drwxr-xr-x 4 abdair _amman 37 Sep 30 13:22 ..
+drwxr-xr-x 2 abdair _amman  6 Oct  4 14:30 .
+drwxr-xr-x 4 abdair _amman 37 Oct  4 14:30 ..
 
-tools:
+./projects/web/frontend:
 total 0
-drwxr-xr-x 2 abdair _amman  6 Sep 30 13:18 .
-drwxr-xr-x 9 abdair _amman 99 Sep 30 15:51 ..
+drwxr-xr-x 2 abdair _amman  6 Oct  4 14:30 .
+drwxr-xr-x 4 abdair _amman 37 Oct  4 14:30 ..
+
+./tools:
+total 0
+drwxr-xr-x 2 abdair _amman  6 Oct  4 14:30 .
+drwxr-xr-x 5 abdair _amman 51 Oct  4 14:30 ..
