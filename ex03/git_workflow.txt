@@ -1,0 +1,4 @@
+Edit: nano README.md
+Add: git add .
+Commit: git commit -m "Complete ex03"
+Push: git push
